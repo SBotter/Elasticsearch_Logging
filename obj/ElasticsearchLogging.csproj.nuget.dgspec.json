@@ -73,7 +73,7 @@
               "target": "Package",
               "version": "[2.0.0, )"
             },
-            "Serilog.Sinks.Elasticsearch": {
+            "Serilog.Sinks.ElasticSearch": {
               "target": "Package",
               "version": "[9.0.3, )"
             },
